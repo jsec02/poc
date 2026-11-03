@@ -11,10 +11,10 @@ Collection of demonstration exploits to prove specific vulnerabilities
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 Python                           5            116             22            490
-Markdown                         6             59              2            161
+Markdown                         6             60              2            166
 Text                             2              0              0              3
 -------------------------------------------------------------------------------
-SUM:                            13            175             24            654
+SUM:                            13            176             24            659
 -------------------------------------------------------------------------------
 ```
 <!-- PROJECT_STRUCTURE_START -->
