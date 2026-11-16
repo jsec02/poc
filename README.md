@@ -10,11 +10,11 @@ Collection of demonstration exploits to prove specific vulnerabilities
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Python                           5            116             22            490
-Markdown                         6             60              2            166
+Python                           6            157             25            620
+Markdown                         7             71              2            194
 Text                             2              0              0              3
 -------------------------------------------------------------------------------
-SUM:                            13            176             24            659
+SUM:                            15            228             27            817
 -------------------------------------------------------------------------------
 ```
 <!-- PROJECT_STRUCTURE_START -->
@@ -23,6 +23,10 @@ SUM:                            13            176             24            659
 
 ```
 poc
+├── authenticated_sql_injection_helpdeskz
+│   ├── exploit.py
+│   ├── README.md
+│   └── requirements.txt
 ├── cve-2009-2265_unrestricted_file_upload_coldfusion
 │   ├── exploit.py
 │   ├── README.md
@@ -44,5 +48,5 @@ poc
 │   └── requirements.txt
 └── README.md
 
-6 directories, 15 files
+7 directories, 18 files
 ```
