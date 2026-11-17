@@ -23,10 +23,6 @@ SUM:                            15            223             27            815
 
 ```
 poc
-├── authenticated_sql_injection_helpdeskz
-│   ├── exploit.py
-│   ├── README.md
-│   └── requirements.txt
 ├── cve-2009-2265_unrestricted_file_upload_coldfusion
 │   ├── exploit.py
 │   ├── README.md
@@ -43,6 +39,10 @@ poc
 │   ├── README.md
 │   └── requirements.txt
 ├── cve-2021-44228_log4shell_unifi
+│   ├── exploit.py
+│   ├── README.md
+│   └── requirements.txt
+├── no_cve_authenticated_sql_injection_helpdeskz
 │   ├── exploit.py
 │   ├── README.md
 │   └── requirements.txt
